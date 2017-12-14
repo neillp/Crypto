@@ -1,2 +1,2 @@
 # Crypto
-Articles on using crypto-currency.
+Articles on safely storing and sending crypto-currency.
